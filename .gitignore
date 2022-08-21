@@ -1,0 +1,5 @@
+.env
+./dump.js
+./.d.ts
+**/node_modules
+node_modules/
